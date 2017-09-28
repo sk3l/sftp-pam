@@ -1,4 +1,4 @@
-project(sftp-pam)
+project(sftpng-pam)
 cmake_minimum_required(VERSION 2.8)
 
 set(CMAKE_CC_FLAGS 
